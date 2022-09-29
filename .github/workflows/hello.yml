@@ -1,6 +1,6 @@
 # A simple Hello World
 
-name: Hello World
+name: Hello World <3 
 
 on: [workflow_dispatch]
 
